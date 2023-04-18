@@ -26,3 +26,15 @@ Here are some ideas to get you started:
 ======  
 MySQL
 ======
+
+======  
+Redis
+======
+
+======  
+计算机网络
+======
+
+======  
+操作系统
+======

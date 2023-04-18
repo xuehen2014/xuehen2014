@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 千里之行，始于足下
 
 ======  
 设计模式(Golang实现）

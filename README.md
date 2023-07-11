@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 以下是我个人的项目分类
 ----------- 
-- 设计模式(Golang实现）
+- 设计模式(Golang实现）  
 https://github.com/xuehen2014/DesignPatterns
   
 - 数据结构&算法--leetcode  

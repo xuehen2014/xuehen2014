@@ -24,7 +24,7 @@ https://github.com/xuehen2014/DesignPatterns
 - 数据结构&算法--leetcode  
 https://github.com/xuehen2014/leetcode
 
-- 知识点总结  
+- 知识点分类总结  
 https://github.com/xuehen2014/coffers
   
 - MySQL  

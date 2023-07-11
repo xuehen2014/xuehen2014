@@ -16,29 +16,14 @@ Here are some ideas to get you started:
 -->
 # 千里之行，始于足下
 
-======  
-设计模式(Golang实现）
-======
+以下是我个人的项目分类
+----------- 
+- 设计模式(Golang实现）
 https://github.com/xuehen2014/DesignPatterns
-
-======  
-数据结构&算法--leetcode
-======
+  
+- 数据结构&算法--leetcode
 https://github.com/xuehen2014/leetcode
-
-======  
-MySQL
-======  
+  
+- MySQL
 https://github.com/xuehen2014/coffers/tree/main/MySQL
 
-======  
-Redis
-======
-
-======  
-计算机网络
-======
-
-======  
-操作系统
-======

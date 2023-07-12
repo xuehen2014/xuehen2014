@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - 用Go从零实现Web框架(one day, one branch)  
 https://github.com/xuehen2014/golang-webFrame
 
+- 用Go从零实现分布式缓存(one day, one branch)
+https://github.com/xuehen2014/geeCache
+
 - 设计模式(Golang实现）  
 https://github.com/xuehen2014/DesignPatterns
   

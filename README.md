@@ -25,6 +25,7 @@ https://github.com/xuehen2014/golang-webFrame
 https://github.com/xuehen2014/geeCache
 
 - 用Go实现并发协成池  
+https://github.com/xuehen2014/goPool
 
 - 设计模式(Golang实现）  
 https://github.com/xuehen2014/DesignPatterns

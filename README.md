@@ -24,6 +24,8 @@ https://github.com/xuehen2014/golang-webFrame
 - 用Go从零实现分布式缓存(one day, one branch)  
 https://github.com/xuehen2014/geeCache
 
+- 用Go实现并发协成池  
+
 - 设计模式(Golang实现）  
 https://github.com/xuehen2014/DesignPatterns
   
@@ -32,7 +34,4 @@ https://github.com/xuehen2014/leetcode
 
 - 知识点分类总结  
 https://github.com/xuehen2014/coffers
-  
-- MySQL  
-https://github.com/xuehen2014/coffers/tree/main/MySQL
 

@@ -27,11 +27,11 @@ https://github.com/xuehen2014/geeCache
 - 用Go实现并发协成池  
 https://github.com/xuehen2014/goPool
 
+- golang常用工具方法  
+https://github.com/xuehen2014/goTools
+
 - 设计模式(Golang实现）  
 https://github.com/xuehen2014/DesignPatterns
-
-- golang常用工具方法 
-https://github.com/xuehen2014/goTools
   
 - 数据结构&算法--leetcode  
 https://github.com/xuehen2014/leetcode

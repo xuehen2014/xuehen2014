@@ -24,7 +24,7 @@ https://github.com/xuehen2014/golang-webFrame
 - 用Go从零实现分布式缓存(one day, one branch)  
 https://github.com/xuehen2014/geeCache
 
-- 用Go实现并发协成池  
+- 用Go实现并发协成池(one day, one branch)  
 https://github.com/xuehen2014/goPool
 
 - golang常用工具方法  
